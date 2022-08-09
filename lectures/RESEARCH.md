@@ -1,19 +1,19 @@
 # Table of contents:
   
-[Useful links](#useful-links)
-[Functions](#functions)
-[Decorators](#decorators)
+[Useful links](#useful-links)  
+[Functions](#functions)  
+[Decorators](#decorators)  
 [Annotations](#annotations) 
-[Generators](#generators)
-[Classes](#classes)
-[Docs/PEPs](#docspeps)
-[Dunder methods](#dunder-methods)
-[Strings](#strings)
-[OS](#os)
-[Lists/Tuples/Dicts](#liststuplesdicts)
-[General](#general)
-[Python2](#python2)
-[Standard libraries](#standard-libraries)
+[Generators](#generators)  
+[Classes](#classes)  
+[Docs/PEPs](#docspeps)  
+[Dunder methods](#dunder-methods)  
+[Strings](#strings)  
+[OS](#os)  
+[Lists/Tuples/Dicts](#liststuplesdicts)  
+[General](#general)  
+[Python2](#python2)  
+[Standard libraries](#standard-libraries)  
 
 ***
 

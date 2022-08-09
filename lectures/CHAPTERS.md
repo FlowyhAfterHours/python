@@ -1,3 +1,5 @@
+***
+
 0. Good style
     - [x] Naming conventions (PEP 8):
         - [x] Proper naming with underscores: weak internal use, name mangling,
@@ -8,6 +10,9 @@
     - [x] General style recommendations
     - [x] Docstrings (PEP 257)
     - [x] Packages and submodules management with \_\_init__.py
+
+***
+
 1. "More advanced" basics:
     - [x] Underscores:
         - [x] Ignoring variables
@@ -28,6 +33,9 @@
       - [ ] print arguments (end=, sep=)
     - [ ] Walrus operator (:=)
     - [ ] \_\_import__
+
+***
+
 2. Functions:
     - [ ] Default parameters, keyword arguments
     - [ ] Parameter typing
@@ -42,6 +50,9 @@
     - [ ] Higher order functions
     - [ ] map()/filter()/reduce()
     - [ ] Function caching
+
+***
+
 3. Lists/Tuples:
     - [ ] len()
     - [ ] Slicing
@@ -65,6 +76,9 @@
             - [ ] sorted(, key=)
     - [ ] Converting lists <-> Tuples
     - [ ] Flattening
+
+***
+
 4. Dictionaries:
     - [ ] values()/keys()/items()
     - [ ] for key, value in items()
@@ -79,10 +93,16 @@
     - [ ] Combine two lists into a dict
     - [ ] Unpacking
     - [ ] Key renaming
+
+***
+
 5. Sets:
     - [ ] add()/update()
     - [ ] remove()/discard()
     - [ ] union()/intersection()/difference()/symmetric_difference()
+
+***
+
 6. Comprehensions:
     - [ ] List
     - [ ] Tuple
@@ -90,6 +110,9 @@
     - [ ] Set
     - [ ] Conditionals
     - [ ] General tips/tricks
+
+***
+
 7. Generators (good tutorial here):
     - [ ] yield
     - [ ] Comprehensions
@@ -97,6 +120,9 @@
     - [ ] send()/throw()/close()
     - [ ] Example: palindromes
     - [ ] Example: data pipelines (!!!)
+
+***
+
 8. Strings:
     - [ ] Escape characters
     - [ ] Raw strings
@@ -112,6 +138,9 @@
     - [ ] strip()/lstrip()/rstrip()
     - [ ] Formatting
     - [ ] Template strings
+
+***
+
 9. Regex:
     - [ ] compile()
     - [ ] search()
@@ -134,6 +163,9 @@
     - [ ] Complex regular expressions:
         - [ ] Multiline regex
         - [ ] Comments
+
+***
+
 10. Files/Directories
     - [ ] os/pathlib
     - [ ] Path joining
@@ -152,6 +184,9 @@
       - [ ] move()
       - [ ] rmtree()
     - [ ] Walking a directory tree
+
+***
+
 11. File I/O:
     - [ ] Most likely you are using open() wrong
     - [ ] with open() args
@@ -159,11 +194,17 @@
     - [ ] Writting/appending to a file
     - [ ] JSON
     - [ ] Using generators to read a file
+
+***
+
 12. Context managers:
     - [ ] Custom context managers:
         - [ ] Using functions
         - [ ] Using classes
     - [ ] Tricks
+
+***
+
 13. Classes:
     - [ ] New styles classes
     - [ ] Naming conventions
@@ -179,6 +220,9 @@
     - [ ] @property
     - [ ] @{name}.setter
     - [ ] @dataclass
+
+***
+
 14. Decorators:
     - [ ] Simple decorators:
         - [ ] Function decorators
@@ -195,6 +239,9 @@
     - [ ] Singletons
     - [ ] Caching
     - [ ] Set function parameters
+
+***
+
 15. Debugging:
     - [ ] try except finally
     - [ ] raise
@@ -203,6 +250,9 @@
     - [ ] assert
     - [ ] Logging
     - [ ] Unit testing
+
+***
+
 16. Standard libraries:
     - [ ] Datetime
     - [ ] Itertoorls
@@ -211,15 +261,34 @@
     - [ ] Dataclasses
     - [ ] Argparse
     - [ ] Importlib
+
+***
+
 17. Python 2+3 targetting
     - [ ] \_\_future__
     - [ ] module naming
     - [ ] try except ImportError
     - [ ] Obsolete Python 2 builtins
     - [ ] enum/singledispatch/pathlib
+
+***
+
 18. More builtins
+
+***
+
 19. setup.\py
+
+***
+
 20. Virtual Environment
+
+***
+
 21. C extensions
-22. Coroutines
---END--
+
+***
+
+22. Coroutines  
+
+***

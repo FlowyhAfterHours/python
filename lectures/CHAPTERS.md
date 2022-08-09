@@ -7,7 +7,7 @@
     - [x] Internal dunder names
     - [x] General style recommendations
     - [x] Docstrings (PEP 257)
-    - [x] Packages and submodules management with __init__.py
+    - [x] Packages and submodules management with \_\_init__.py
 1. "More advanced" basics:
     - [x] Underscores:
         - [x] Ignoring variables
@@ -27,7 +27,7 @@
       - [ ] sys.getsizeof()
       - [ ] print arguments (end=, sep=)
     - [ ] Walrus operator (:=)
-    - [ ] __import__
+    - [ ] \_\_import__
 2. Functions:
     - [ ] Default parameters, keyword arguments
     - [ ] Parameter typing
@@ -168,13 +168,13 @@
     - [ ] New styles classes
     - [ ] Naming conventions
     - [ ] Magic/dunder methods:
-        - [ ] __eq__
-        - [ ] __repr__
-        - [ ] __str__
+        - [ ] \_\_eq__
+        - [ ] \_\_repr__
+        - [ ] \_\_str__
     - [ ] Name mangling
     - [ ] Inheritance
     - [ ] Private/Internal fields/methods
-    - [ ] __slots__
+    - [ ] \_\_slots__
     - [ ] @staticmethod
     - [ ] @property
     - [ ] @{name}.setter
@@ -212,13 +212,13 @@
     - [ ] Argparse
     - [ ] Importlib
 17. Python 2+3 targetting
-    - [ ] __future__
+    - [ ] \_\_future__
     - [ ] module naming
     - [ ] try except ImportError
     - [ ] Obsolete Python 2 builtins
     - [ ] enum/singledispatch/pathlib
 18. More builtins
-19. Setup.py
+19. setup.\py
 20. Virtual Environment
 21. C extensions
 22. Coroutines

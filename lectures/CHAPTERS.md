@@ -45,7 +45,7 @@
 
 ***
 
-1. Functions:
+2. Functions:
     - [ ] Default parameters, keyword arguments
     - [ ] Parameter typing
     - [ ] *args, **kwargs

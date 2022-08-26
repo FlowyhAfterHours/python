@@ -19,24 +19,33 @@
         - [x] Digits separating
         - [x] Interpreter expression storing
     - [x] List/Tuple unpacking
-    - [?] Everything is an object
-    - [?] Inline if/else
-    - [?] Class dunder names
-    - [ ] Sort by keys
-    - [ ] Control flow:
-        - [ ] Tenary
-        - [ ] For else
-        - [ ] List checking
+    - [x] Data model
+        - [x] type()/id()/dir()
+        - [x] Object attributes customization
+            - [x] Standard dunders
+            - [x] Descriptors
+            - [x] \_\_len\_\_
+            - [x] \_\_iter\_\_, \_\_next\_\_, \_\_reversed\_\_, \_\_contains\_\_
+            - [x] Numeric types
+            - [x] \_\_slots\_\_
+          - [x] getattr(), setattr(), hasattr(), delattr()
+        - [x] Functions as objects
+        - [x] Deleting modules in code 
+    - [x] Control flow:
+        - [x] Inline if/else aka tenary
+        - [x] For/else
+        - [x] List checking
+        - [x] Where is switch case
     - [ ] Useful functions/arguments:
-      - [ ] type()/id()/dir()/inspect module
-      - [ ] sys.getsizeof()
-      - [ ] print arguments (end=, sep=)
+      - [ ] Sort by keys
+      - [x] sys.getsizeof()/pympler
+      - [x] print arguments (end=, sep=)
+      - [ ] \_\_import__
     - [ ] Walrus operator (:=)
-    - [ ] \_\_import__
 
 ***
 
-2. Functions:
+1. Functions:
     - [ ] Default parameters, keyword arguments
     - [ ] Parameter typing
     - [ ] *args, **kwargs
@@ -50,6 +59,7 @@
     - [ ] Higher order functions
     - [ ] map()/filter()/reduce()
     - [ ] Function caching
+    - [ ] Positional arguments
 
 ***
 
@@ -255,12 +265,14 @@
 
 16. Standard libraries:
     - [ ] Datetime
-    - [ ] Itertoorls
+    - [ ] Itertools
+    - [ ] Functools
     - [ ] JSON
     - [ ] Random
     - [ ] Dataclasses
     - [ ] Argparse
     - [ ] Importlib
+    - [ ] Inspect
 
 ***
 
@@ -289,6 +301,11 @@
 
 ***
 
-22. Coroutines  
+22. Coroutines/Asyncs
 
 ***
+
+23. Python 3.10
+    - [ ] Type union operator
+    - [ ] Type aliasing
+    - [ ] Match case

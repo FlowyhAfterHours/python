@@ -36,30 +36,31 @@
         - [x] For/else
         - [x] List checking
         - [x] Where is switch case
-    - [ ] Useful functions/arguments:
-      - [ ] Sort by keys
+    - [x] Useful functions/arguments:
       - [x] sys.getsizeof()/pympler
       - [x] print arguments (end=, sep=)
-      - [ ] \_\_import__
-    - [ ] Walrus operator (:=)
+    - [x] Walrus operator (:=)
 
 ***
 
 2. Functions:
-    - [ ] Default parameters, keyword arguments
-    - [ ] Parameter typing
-    - [ ] *args, **kwargs
-    - [ ] return multiple objects
-    - [ ] global
-    - [ ] Lambda functions
-    - [ ] Nested functions
-    - [ ] Return function objects:
+    - [x] Parameters:
+        - [x] Default parameters, keyword arguments
+        - [x] *args, **kwargs
+        - [x] Positional/keyword-only arguments
+        - [x] global
+    - [x] Return:
+        - [x] return multiple objects
+    - [x] Lambda functions
+    - [x] Higher order functions
+        - [x] map()/filter()/reduce()
+        - [x] key functions sorted()/.sort()/min()/max()
+    - [ ] Inner functions
         - [ ] @functools.wraps(func)
-    - [ ] Generic funcions
-    - [ ] Higher order functions
-    - [ ] map()/filter()/reduce()
     - [ ] Function caching
-    - [ ] Positional arguments
+
+3. Type annotations:
+    - [ ] Generic funcions
 
 ***
 
@@ -86,6 +87,7 @@
             - [ ] sorted(, key=)
     - [ ] Converting lists <-> Tuples
     - [ ] Flattening
+    - [ ] Namedtuple
 
 ***
 

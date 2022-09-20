@@ -7,6 +7,7 @@
 ***
 
 Chapter list: [CHAPTERS.md](./CHAPTERS.md)
+
 Research links: [RESEARCH.md](RESEARCH.md)
 
 ***

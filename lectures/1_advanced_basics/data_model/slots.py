@@ -17,7 +17,8 @@ class WithSlots(object):
 
   # def __setattr__(self, name, value):
   #   self.__slots__.append(name)
-  #   # TODO: where should I assign value to stop AttributeError
+  #   # Where should I assign value to stop AttributeError?
+  #   # You can't.
 
 
 class SlotsWithNewAttributes(WithSlots):
